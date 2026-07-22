@@ -1,0 +1,6 @@
+{
+  "name": "Wasool AI",
+  "description": "Helps you track money lent to friends and family and generates polite, relationship-preserving reminder messages using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
