@@ -119,8 +119,13 @@ Instructions:
 *(Drafting empathetic reminders in 4 distinct tones with copy-to-clipboard functionality)*
 
 ---
+### Screen 3: Adding transaction
+> *User can add transactions, such as borrowed money and money lent.*
 
-### Screen 3: Bilingual Urdu (RTL) View
+![image alt](https://github.com/Mandistani/wasool-ai/blob/81b192ffeff733cb62d2855b6d0346c27553b5bf/add-transaction.png)
+---
+
+### Screen 4: Bilingual Urdu (RTL) View
 > *Full Urdu language experience with native Right-To-Left layout and localized Urdu AI reminder drafts.*
 
 ![Urdu RTL Interface](screenshots/urdu.png)
