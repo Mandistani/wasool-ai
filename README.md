@@ -115,7 +115,7 @@ Instructions:
 ### Screen 2: Relationship-First AI Reminder Generator
 > *Interactive modal showing custom tone selection, relationship tags, generated AI draft, and relationship advice tip.*
 
- ![Image Alt]([image_url](https://github.com/Mandistani/wasool-ai/blob/b69573ad312b8ed590d0f8ca50754b17d8f161f2/screenshots/dashboard.png.png))
+[ ![Image Alt]([image_url](https://github.com/Mandistani/wasool-ai/blob/b69573ad312b8ed590d0f8ca50754b17d8f161f2/screenshots/dashboard.png.png))](https://github.com/Mandistani/wasool-ai/blob/main/screenshots/dashboard.png.png?raw=true)
 *(Drafting empathetic reminders in 4 distinct tones with copy-to-clipboard functionality)*
 
 ---
