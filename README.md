@@ -128,7 +128,7 @@ Instructions:
 ### Screen 4: Bilingual Urdu (RTL) View
 > *Full Urdu language experience with native Right-To-Left layout and localized Urdu AI reminder drafts.*
 
-![Urdu RTL Interface](screenshots/urdu.png)
+![image alt](https://github.com/Mandistani/wasool-ai/blob/4ce58dee6c60e3b5b28b5f6e26492264f8967c69/Bilingual%20Urdu.png)
 *(Native Urdu interface with localized navigation, metrics, and Urdu AI drafts)*
 
 ---
