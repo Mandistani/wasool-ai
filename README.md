@@ -107,7 +107,7 @@ Instructions:
 ### Screen 1: Financial Analytics Dashboard
 > *Real-time metrics overview displaying Total Lent, Recovered, Borrowed, and Repaid balances alongside search and filter controls.*
 
-![Wasool AI Dashboard](screenshots/dashboard)
+![image alt](https://github.com/Mandistani/wasool-ai/blob/c7fe64be1dd0664a967eff865102c3f2b0e199e3/dashboard.png)
 *(Main interface showing transaction list, status tags, and quick-action buttons)*
 
 ---
